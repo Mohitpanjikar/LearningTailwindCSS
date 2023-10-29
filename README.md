@@ -12,7 +12,8 @@ To get started, you can clone this repository to your local environment and open
 
 ## Preview
 
-![PW Skills Landing Page](insert_image_url_here)
+![PW Skills Landing Page](https://github.com/Mohitpanjikar/LearningTailwindCSS/blob/main/websiteimg1.png)
+![PW Skills Landing Page](https://github.com/Mohitpanjikar/LearningTailwindCSS/blob/main/websiteimg2.png)
 
 ## Contribute
 
